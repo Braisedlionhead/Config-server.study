@@ -1,2 +1,1 @@
 # Config-server.study
-ln
